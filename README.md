@@ -13,7 +13,7 @@ This repository contains a Playwright test suite to validate tasks and tags in t
 1. Clone the repository:
    ```bash
    git clone https://github.com/abrahamdemir/playwright-test-suite.git
-   cd your-repo-name
+   cd playwright-test-suite
    ```
 2. Install dependencies:
    ```bash
